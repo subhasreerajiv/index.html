@@ -7,59 +7,51 @@
 charset=iso-8859-15">
 <title></title>
 </head>
-<body style="background-color:#AADDFF;"> 
-<h1 style="font-size:150%;">Faculty Research Group</h1>
-<h2 style="font-size:150%;">Algorithms and Formal Methods</h2>
+<body style="background-color:LightSteelBlue;"> 
+<h1 style="font-size:150%;">Subashini R</h1>
+<h2 style="font-size:120%;">Associate Professor</h2>
 <p style="font-size:100%;">Department of Computer Science and Engineering <br>
 National Institute of Technology, Calicut<br>
 Kozhikode, Kerala, India - 673601. India<br>
-Emails: sheerazXnitcYacYin, subaXnitcYacYin, subhaXnitcYacYin [@/X,./Y].</p>
+Email: subaXnitcYacYin [@/X,./Y].</p>
 <HR>
-<h3>Areas of Research:</h3>
+<h3>Research Interests:</h3>
 <ul>
-  <li>Computational Geometry</li><br>
-  <li>Computer Vision</li> <br>
-  <li>Graph Theory & Algorithms</li><br>
-  <li>Graph Modification Problems</li><br>
-  <li>Formal Specification & Verification</li><br>
-  <li>Model Checking</li><br>
-  <li>Parameterized Algorithms & Complexity</li> 
+<li>Graph theory & Algorithms</li>
+<li>Parameterized Algorithms</li>
 </ul>
 <HR>
-<h3>Faculty Members:</h3>
+<h3>Academic Background:</h3>
 <ul>
-<li><a href="https://sheerazuddins.github.io/" target="_blank">S. Sheerazuddin</a></li><br>
-<li><a href="https://subanitc.github.io/subashini/" target="_blank">R. Subashini</a></li><br>   
-<li><a href="https://people.cse.nitc.ac.in/subha/" target="_blank">Subhasree M.</a></li>
+<li> Ph.D. Department of Computer Science and Engineering, Indian Institute of Technology, Madras. (2009-2014)</li>
+<li> M.Tech., Department of Computer Science and Engineering, Indian Institute of Technology, Madras. (2004-2006)</li>
+<li> B.Tech. Department of Computer Science and Engineering, Institute of Road and Transport Technology, Erode (1994-1998).</li>
 </ul>
 <HR>
-<h3>Research Scholars:</h3>
+<h3>Publications:</h3>
+   <a href="https://dblp.org/pid/42/7828.html/" target="_blank">DBLP Listing</a> <br>
+   <a href="https://scholar.google.com/citations?user=GO8xuzEAAAAJ&hl=en/" target="_blank">Google Scholar Listing</a> 
+<hr>   
+<ul>
+<li>Dhanyamol Antony, Jay Garchar, Sagartanu Pal, R. B. Sandeep, Sagnik Sen, R. Subashini: On Subgraph Complementation to H-free Graphs. WG 2021: 118-129.</li><br>
+<li>M. R. Rani, R. Subashini, Mohith Jagalmohanan: Simultaneous consecutive ones submatrix and editing problems: Classical complexity and fixed-parameter tractable results. Theor. Comput. Sci. 812: 13-38 (2020)</li><br>
+<li>Geevarghese Philip, M. R. Rani, R. Subashini:On Computing the Hamiltonian Index of Graphs. CSR 2020: 341-353.</li> <br>
+<li>Rani, MR, Jagalmohanan M, Subashini R.  2018.  Complexity Status and Fixed-Parameter Tractability of the Simultaneous Consecutive Ones Submatrix & Editing Problems, May 8-10, 2018. International Frontiers of Algorithmics Workshop (FAW 2018). , Guangzhou University, China.</li><br>
+<li>Narayanaswamy, NS, Subashini R.  2015.  Obtaining Matrices with the Consecutive Ones Property by Row Deletions. Algorithmica, 2015. 71(3):758-773.</li><br>
+<li>Narayanaswamy, NS, Subashini R.  2013.  FPT Algorithms for Consecutive Ones Submatrix Problems, 6 Septemebr. International Symposium on Parameterized and Exact Computation (IPEC), 2013. , Sophia Antipolis, France.</li><br>
+<li>Narayanaswamy, NS, Subashini R.  2009.  A new characterization of matrices with the Consecutive Ones Property. Discrete Applied Mathematics (DAM), 2009. 157(18):3721-3727.</li>
+</ul>  
+<HR>
+<h3>Ph.D. Students:</h3>
 <ul>  
-  <li><a href="https://abahai.github.io/aby/" target="_blank"> Aby Abahai T.</a>  (Guide <a href="https://people.cse.nitc.ac.in/subha/" target="_blank">Subhasree M</a>) </li> <br>
-  
-  <li><a href="https://alphygeorgev.github.io/" target="_blank"> Alphy George </a> (Co-guides  <a href="https://people.cse.nitc.ac.in/muralikrishnan/" target="_blank">Muralikrishnan K</a>, <a href="https://sheerazuddins.github.io/" target="_blank">S. Sheerazuddin</a>) </li><br>
-  
-  <li><a href="https://dhanyaantony19.github.io/Dhanyamol-Antony/" target="_blank"> Dhanyamol Antony</a>  (Guide <a href="https://subanitc.github.io/subashini/" target="_blank">R. Subashini</a>) </li> <br>
-  
-  <li><a href="https://haritha-br.github.io/haritha_p190076cs/" target="_blank"> Haritha B. R.</a>  (Guide <a href="https://people.cse.nitc.ac.in/subha/" target="_blank">Subhasree M</a>) </li> <br>
-  
-  <li><a href="https://www.researchgate.net/profile/Rani-M-R" target="_blank"> Rani M. R.</a>  (Guide <a href="https://subanitc.github.io/subashini/" target="_blank">R. Subashini</a>) </li> <br>
-  
-  <li><a href="https://remiraman.github.io/" target="_blank"> Remi R.</a> (Co-guides  <a href="https://subanitc.github.io/subashini/" target="_blank">R. Subashini</a>, <a href="https://people.cse.nitc.ac.in/subha/" target="_blank">Subhasree M.</a>) </li><br>
-  
-  <li>Rama M. (Co-guides  <a href="https://subanitc.github.io/subashini/" target="_blank">R. Subashini</a>, <a href="https://people.cse.nitc.ac.in/subha/" target="_blank">Subhasree M.</a>) </li><br>
-  
-  <li><a href="https://shabananishaq.github.io/shabananishaq/" target="_blank"> Shabana AT </a> (Co-guides  <a href="https://people.cse.nitc.ac.in/muralikrishnan/" target="_blank">Muralikrishnan K</a>, <a href="https://sheerazuddins.github.io/" target="_blank">S. Sheerazuddin</a>) </li><br>
-  
-  <li>Tephilla Prince (Co-guides  <a href="https://phawaderamchandra.github.io/" target="_blank">Ramchandra Phawade</a>, <a href="https://sheerazuddins.github.io/" target="_blank">S. Sheerazuddin</a>) </li>
+  <li>Rani M R (2016-2021) </li><br>
+  <li>Dhanyamol Antony (2017- ) <li><br>
+  <li>Remi R (co-guide  <a href="https://people.cse.nitc.ac.in//" target="_blank">Subhasree M</a>) (2017 - ) </li><br>
+  <li>Rema M(co-guide  <a href="https://people.cse.nitc.ac.in//" target="_blank">Subhasree M</a>) (2018 - ) </li>
 </ul>  
 <HR>   
-<h3>Publications:</h3>
-  <ul>
-   <li>Google Scholar <a href="https://scholar.google.co.in/citations?user=Eu75tbEAAAAJ&hl=en/" target="_blank">listing</a> of S. Sheerazuddin</li> <br>
-   <li>Google Scholar <a href="https://scholar.google.com/citations?user=GO8xuzEAAAAJ&hl=en/" target="_blank">listing</a> of R. Subashini</li> <br>
-   <li>Google Scholar <a href="https://scholar.google.com/citations?user=S6ImBpwAAAAJ&hl=en/" target="_blank">listing</a> of Subhasree M.</li> 
-  </ul>  
-<HR>  
+<h3>My Research Group:</h3> 
+   Algorithms & Verification <a href="https://sheerazuddins.github.io/Webpages/" target="_blank"> Faculty Research Group</a>    
+<HR>
 </body> 
 </html>
