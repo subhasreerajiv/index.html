@@ -8,46 +8,43 @@ charset=iso-8859-15">
 <title></title>
 </head>
 <body style="background-color:LightSteelBlue;"> 
-<h1 style="font-size:150%;">Subashini R</h1>
+<h1 style="font-size:150%;">Subhasree M</h1>
 <h2 style="font-size:120%;">Associate Professor</h2>
 <p style="font-size:100%;">Department of Computer Science and Engineering <br>
 National Institute of Technology, Calicut<br>
 Kozhikode, Kerala, India - 673601. India<br>
-Email: subaXnitcYacYin [@/X,./Y].</p>
+Email: subhaXnitcYacYin [@/X,./Y].</p>
 <HR>
 <h3>Research Interests:</h3>
 <ul>
-<li>Graph theory & Algorithms</li>
-<li>Parameterized Algorithms</li>
+<li>Computational Geometry</li>
+<li>Computer Vision</li>
 </ul>
 <HR>
 <h3>Academic Background:</h3>
 <ul>
-<li> Ph.D. Department of Computer Science and Engineering, Indian Institute of Technology, Madras. (2009-2014)</li>
-<li> M.Tech., Department of Computer Science and Engineering, Indian Institute of Technology, Madras. (2004-2006)</li>
-<li> B.Tech. Department of Computer Science and Engineering, Institute of Road and Transport Technology, Erode (1994-1998).</li>
+<li> Ph.D. Department of Computer Science and Engineering, Indian Institute of Technology, Madras. (2012-2017)</li>
+<li> M.E., Department of Computer Science and Automation, Indian Institute of Science, Bangalore. (2004-2006)</li>
+<li> B.Tech. Department of Computer Science and Engineering, Mar Athanasius College of Engg., Mahatma Gandhi University, Kerala (1994-1998).</li>
 </ul>
 <HR>
 <h3>Publications:</h3>
-   <a href="https://dblp.org/pid/42/7828.html/" target="_blank">DBLP Listing</a> <br>
-   <a href="https://scholar.google.com/citations?user=GO8xuzEAAAAJ&hl=en/" target="_blank">Google Scholar Listing</a> 
+   <a href="https://https://dblp.org/pid/171/3988.html/" target="_blank">DBLP Listing</a> <br>
+   <a href="https://https://scholar.google.com/citations?user=S6ImBpwAAAAJ&hl=en/" target="_blank">Google Scholar Listing</a> 
 <hr>   
 <ul>
-<li>Dhanyamol Antony, Jay Garchar, Sagartanu Pal, R. B. Sandeep, Sagnik Sen, R. Subashini: On Subgraph Complementation to H-free Graphs. WG 2021: 118-129.</li><br>
-<li>M. R. Rani, R. Subashini, Mohith Jagalmohanan: Simultaneous consecutive ones submatrix and editing problems: Classical complexity and fixed-parameter tractable results. Theor. Comput. Sci. 812: 13-38 (2020)</li><br>
-<li>Geevarghese Philip, M. R. Rani, R. Subashini:On Computing the Hamiltonian Index of Graphs. CSR 2020: 341-353.</li> <br>
-<li>Rani, MR, Jagalmohanan M, Subashini R.  2018.  Complexity Status and Fixed-Parameter Tractability of the Simultaneous Consecutive Ones Submatrix & Editing Problems, May 8-10, 2018. International Frontiers of Algorithmics Workshop (FAW 2018). , Guangzhou University, China.</li><br>
-<li>Narayanaswamy, NS, Subashini R.  2015.  Obtaining Matrices with the Consecutive Ones Property by Row Deletions. Algorithmica, 2015. 71(3):758-773.</li><br>
-<li>Narayanaswamy, NS, Subashini R.  2013.  FPT Algorithms for Consecutive Ones Submatrix Problems, 6 Septemebr. International Symposium on Parameterized and Exact Computation (IPEC), 2013. , Sophia Antipolis, France.</li><br>
-<li>Narayanaswamy, NS, Subashini R.  2009.  A new characterization of matrices with the Consecutive Ones Property. Discrete Applied Mathematics (DAM), 2009. 157(18):3721-3727.</li>
+<li>Zesheng Jia, Anjali Jose, Subhasree Methirumangalath, Jiju Peethambaran and Ramanathan Muthuganapathy “Maintaining the Spatial Proximities of Objects under Motion”, Computer Aided Design & Applications, Volume 18, Number 2, pp. 368-382 (CAD’ 2020, Barcelona, Spain (virtual conference))</li><br>
+<li>Subhasree Methirumangalath, Shyam Sundar Kannan, Amal Dev Parakkat and Ramanathan Muthuganapathy " Reconstruction using a simple triangle removal approach " , Siggraph AsiaTechnical Brief, (Presented in Siggraph Asia 2017, Bangkok).</li><br>
+<li>Subhasree Methirumangalath, Shyam Sundar Kannan, Amal Dev Parakkat and Ramanathan Muthuganapathy " Hole detection in a planar point set: An empty disk approach " , Computers & Graphcs, Volume 66, August 2017, pp. 124--134 (Presented in SMI, University of California Berkeley, June 2017).</li> <br>
+<li>Subhasree Methirumangalath, Amal Dev Parakkat and Ramanathan Muthuganapathy, "A   unified approach towards reconstruction of a planar point set " , Computers & Graphics, Volume 51, pp. 90-97, October 2015, (Presented in IEEE Shape Modeling International, University of Lille, France, June 2015).</li><br>
 </ul>  
 <HR>
 <h3>Ph.D. Students:</h3>
 <ul>  
-  <li>Rani M R (2016-2021) </li><br>
-  <li>Dhanyamol Antony (2017- ) <li><br>
-  <li>Remi R (co-guide  <a href="https://people.cse.nitc.ac.in//" target="_blank">Subhasree M</a>) (2017 - ) </li><br>
-  <li>Rema M(co-guide  <a href="https://people.cse.nitc.ac.in//" target="_blank">Subhasree M</a>) (2018 - ) </li>
+  <li>Remi R (co-guide  <a href="https://people.cse.nitc.ac.in//" target="_blank">Subashini R</a>) (2017 - ) </li><br>
+  <li>Rema M(co-guide  <a href="https://people.cse.nitc.ac.in//" target="_blank">Subashini  R</a>) (2018 - ) </li>
+   <li>Aby Abhai T (2019-) </li><br>
+  <li>Haritha B.R. (2019- ) <li>
 </ul>  
 <HR>   
 <h3>My Research Group:</h3> 
